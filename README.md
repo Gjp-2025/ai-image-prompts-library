@@ -45,7 +45,7 @@ Each prompt focuses on clarity, visual consistency, and cross-model usability, m
 - **2030s**: Futuristic hyper‑realistic, tech‑wear, AR glasses interface.
 
 ## 2、Evolution of a Man Across 16 Decades —— woman
-<img width="520"  alt="image" src="https://github.com/user-attachments/assets/56d0f382-146d-48ed-bde5-faf91aae48b2" />
+<img width="520"  alt="Evolution of a Man Across 16 Decades —— woman" src="https://github.com/user-attachments/assets/56d0f382-146d-48ed-bde5-faf91aae48b2" />
 
 ### Prompt
 
@@ -53,7 +53,7 @@ Create a photorealistic 4x4 grid image showing the evolution of the same woman a
 
 ## 3、Frost Winter Portrait
 
-<img width="1696" height="2528" alt="image" src="https://github.com/user-attachments/assets/cb3dd106-f94a-495a-9544-985e703d6250" />
+<img width="520" alt="Frost Winter Portrait" src="https://github.com/user-attachments/assets/cb3dd106-f94a-495a-9544-985e703d6250" />
 
 ### Prompt
 
