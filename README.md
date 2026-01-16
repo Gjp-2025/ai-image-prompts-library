@@ -11,7 +11,7 @@ Each prompt focuses on clarity, visual consistency, and cross-model usability, m
 
 ## 1、 Evolution of a Man Across 16 Decades —— man
 
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b79a8f4-7b39-4405-afc2-ba34413fa8f9" />
+<img width="520"  alt="image" src="https://github.com/user-attachments/assets/7b79a8f4-7b39-4405-afc2-ba34413fa8f9" />
 
 
 ### Prompt  
@@ -45,7 +45,7 @@ Each prompt focuses on clarity, visual consistency, and cross-model usability, m
 - **2030s**: Futuristic hyper‑realistic, tech‑wear, AR glasses interface.
 
 ## 2、Evolution of a Man Across 16 Decades —— woman
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/56d0f382-146d-48ed-bde5-faf91aae48b2" />
+<img width="520"  alt="image" src="https://github.com/user-attachments/assets/56d0f382-146d-48ed-bde5-faf91aae48b2" />
 
 ### Prompt
 
