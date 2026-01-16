@@ -3,6 +3,8 @@
 A curated collection of high-quality AI image prompts for creators, designers, and AI image enthusiasts.
 
 All images displayed below are generated using the **Nano Banana Pro** model and are paired with detailed, reusable prompts.  
+For prompt generation, refinement, and advanced AI image workflows, visit:  
+👉 https://aiphotoprompt.xyz
 This repository is designed as an evolving prompt library — new prompts, styles, and image sets will be continuously added over time.
 
 Each prompt focuses on clarity, visual consistency, and cross-model usability, making them suitable for experimentation, learning, and creative production.
