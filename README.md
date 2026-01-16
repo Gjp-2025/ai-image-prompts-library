@@ -11,7 +11,7 @@ Each prompt focuses on clarity, visual consistency, and cross-model usability, m
 
 ## 1、 Evolution of a Man Across 16 Decades —— man
 
-<img width="520"  alt="image" src="https://github.com/user-attachments/assets/7b79a8f4-7b39-4405-afc2-ba34413fa8f9" />
+<img width="520"  alt="Evolution of a Man Across 16 Decades —— man" src="https://github.com/user-attachments/assets/7b79a8f4-7b39-4405-afc2-ba34413fa8f9" />
 
 
 ### Prompt  
