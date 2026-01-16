@@ -3,8 +3,10 @@
 A curated collection of high-quality AI image prompts for creators, designers, and AI image enthusiasts.
 
 All images displayed below are generated using the **Nano Banana Pro** model and are paired with detailed, reusable prompts.  
+
 For prompt generation, refinement, and advanced AI image workflows, visit:  
 👉 https://aiphotoprompt.xyz
+
 This repository is designed as an evolving prompt library — new prompts, styles, and image sets will be continuously added over time.
 
 Each prompt focuses on clarity, visual consistency, and cross-model usability, making them suitable for experimentation, learning, and creative production.
@@ -71,7 +73,7 @@ Avoid: Warm weather, bright sunlight, sunglasses, full body shot, cartoon, illus
 
 ## 4、Retro Polaroid Aesthetic
 
-<img width="1696" height="2528" alt="image" src="https://github.com/user-attachments/assets/7252d55a-0de2-484d-a6f4-3afa7e6b6093" />
+<img width="520" alt="Retro Polaroid Aesthetic" src="https://github.com/user-attachments/assets/7252d55a-0de2-484d-a6f4-3afa7e6b6093" />
 
 ### Prompt
 
@@ -79,7 +81,7 @@ A realistic vintage Polaroid instant photograph of the attractive couple from th
 
 ## 5、Elite Business Portrait
 
-<img width="1696" height="2528" alt="image" src="https://github.com/user-attachments/assets/4e671d8d-f5f8-4e21-88af-fa8c493e4b48" />
+<img width="520" alt="Elite Business Portrait" src="https://github.com/user-attachments/assets/4e671d8d-f5f8-4e21-88af-fa8c493e4b48" />
 
 ### Prompt
 
@@ -89,7 +91,7 @@ Style: Hyper-realistic photography. Authentic skin texture (visible pores, no sm
 
 ## 6、Outfit Transition Sequence
 
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/80a1dbfc-0231-4d75-8878-5dcc1ebb5f8f" />
+<img width="520" alt="Outfit Transition Sequence" src="https://github.com/user-attachments/assets/80a1dbfc-0231-4d75-8878-5dcc1ebb5f8f" />
 
 ### Prompt
 
@@ -102,7 +104,7 @@ Strictly preserve facial identity, facial features, and hairstyle across all pan
 
 ## 7、Classic Business Headshot
 
-<img width="1696" height="2528" alt="image" src="https://github.com/user-attachments/assets/0611cd60-0b66-47a2-83bd-7f01365f1ab0" />
+<img width="520" alt="Classic Business Headshot" src="https://github.com/user-attachments/assets/0611cd60-0b66-47a2-83bd-7f01365f1ab0" />
 
 ### Prompt
 
@@ -110,7 +112,7 @@ A deeply atmospheric, hyper-realistic cinematic editorial portrait of the upload
 
 ## 8、Natural Light Male Portrait
 
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/29c504d9-c709-4c6c-9286-ac6d490ce800" />
+<img width="520" alt="Natural Light Male Portrait" src="https://github.com/user-attachments/assets/29c504d9-c709-4c6c-9286-ac6d490ce800" />
 
 ### Prompt
 
@@ -118,7 +120,7 @@ Cinematic street photography, sharp focus on the young man, subject in crisp det
 
 ## 9、Fashion Forward Portrait
 
-<img width="1792" height="2400" alt="image" src="https://github.com/user-attachments/assets/8525d030-dc2b-4318-aa37-56f16db4d74f" />
+<img width="520" alt="Fashion Forward Portrait" src="https://github.com/user-attachments/assets/8525d030-dc2b-4318-aa37-56f16db4d74f" />
 
 ### Prompt
 
@@ -127,14 +129,11 @@ A hyper-realistic high-resolution portrait photograph of a beautiful young woman
 
 ## 10、Romantic Couple
 
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/152ccc7c-3904-4002-a79c-79101410ff21" />
+<img width="520" alt="Romantic Couple" src="https://github.com/user-attachments/assets/152ccc7c-3904-4002-a79c-79101410ff21" />
 
 ### Prompt
 
 A top-down, high-angle cinematic photograph of a couple lying on a lush bed of vibrant green moss and wildflowers. The setting is dreamy and ethereal: from above you see a woman on the left and a man on the right.\nThe woman wears a vintage, cream-colored dress with a square neckline and a straw hat decorated with fresh pink roses and yellow daisies. She has long, dark wavy hair, and on her face a gentle, warm smile. The man is dressed in a crisp white Henley shirt, wearing a simple silver chain necklace; his expression is serene, his eyes closed as if peacefully sleeping or resting.\nSurrounding them and resting gently on their clothes and on the grass are delicate pastel-colored butterflies. Around them blooms a mixture of wildflowers: purple lavender, pink roses, and little yellow wildflowers — the flowers blending softly with the moss, giving a natural cottage-core vibe.\nThe lighting is soft and magical: dappled sunlight filters through a forest canopy above, casting a warm golden glow on their faces; soft shadows dance around them. The background (moss, flowers, foliage) is slightly out of focus (soft-focus background), with the couple in sharp focus, giving a dreamy, romantic cottage-core aesthetic. The image is high resolution (8K), with realistic photographic texture and detail.\n(Optional technical/photo directives: high-angle top-down shot, cinematic composition, shallow depth-of-field, soft natural light, warm color grading, realistic photography style)
-
-
-
 
 ## Contributing  
 
